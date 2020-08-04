@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:ios="clr-namespace:Xamarin.Forms.PlatformConfiguration.iOSSpecific;assembly=Xamarin.Forms.Core"
+             ios:Page.UseSafeArea="true"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" xmlns:d="http://xamarin.com/schemas/2014/forms/design" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" mc:Ignorable="d" x:Class="XamarinViews.MainPage">
+
+    <StackLayout>
+
+
+
+        
+
+    </StackLayout>
+
+    <!--<TimePicker TextColor="BlueViolet"/>-->
+
+    <!--<TableView Intent="Form">
+    <TableRoot Title="Test">
+        <TableSection Title="Datos Generales" >
+            <TextCell Text="Nombre" Detail="Solo mayores"/>
+            <EntryCell Placeholder="Su nombre" Keyboard="Default"/>
+            <EntryCell Label="Telefono" Placeholder="503" Keyboard="Numeric"/>
+            <SwitchCell Text="Es activo"/>
+            <ViewCell>
+                <ViewCell.View>
+                    <StackLayout>
+                        <BoxView Color="Red"/>
+                    </StackLayout>
+                </ViewCell.View>
+            </ViewCell>
+            </TableSection>
+    </TableRoot>
+</TableView>-->
+
+    <!--<Switch IsToggled="True"/>-->
+
+    <!--<Stepper Minimum="50" Maximum="150" Increment="25"/>-->
+
+    <!--<Slider x:Name="slider" Maximum="200" Minimum="100" />-->
+
+    <!--<SearchBar Placeholder="Buscar" CancelButtonColor="Red"/>-->
+
+    <!--<ProgressBar x:Name="progress" Progress=".5"></ProgressBar>-->
+    
+    <!--<Picker x:Name="picker"
+            TextColor="BlueViolet"
+            Title="Selecciona un item">
+        <Picker.Items>
+            <x:String>Halo</x:String>
+            <x:String>Gears of war</x:String>
+            <x:String>Final Fantasy</x:String>
+        </Picker.Items>
+    </Picker>-->
+
+    <!--<Label VerticalOptions="Center"
+    HorizontalOptions="FillAndExpand"
+    Text="Hola mundo cruel de texto bastante largo sdsd sdsd sadasdasdas asdasdasd asdas" TextColor="Yellow"
+    VerticalTextAlignment="Center"
+    HorizontalTextAlignment="End"
+    BackgroundColor="Blue"
+    WidthRequest="100"
+    LineBreakMode="TailTruncation" MaxLines="1"
+    >
+    <Label.FormattedText>
+        <FormattedString>
+            <Span Text="Horarios:" FontAttributes="Bold" FontSize="Large"></Span>
+            <Span Text="Lunes a las 10"/>
+        </FormattedString>
+    </Label.FormattedText>
+    </Label>-->
+
+    <!--<Image Source="icon_light.png" Aspect="AspectFit" HeightRequest="30" />-->
+
+    <!--<Entry IsPassword="True"
+        Placeholder="Escribe tu contraseña"
+        PlaceholderColor="YellowGreen" TextColor="BlanchedAlmond"
+        FontAttributes="Bold" FontSize="Large"/>-->
+
+    <!--<Editor HeightRequest="50" Text=""
+        FontAttributes="Bold" FontSize="Large" TextColor="BlueViolet"
+        Placeholder="Texto de prueba"/>-->
+
+    <!--<DatePicker
+    Format="dd/MM/yyyy"/>-->
+
+    <!--<Button FontSize="Large"
+        Text="Clickéame"
+        TextColor="Blue"
+        FontAttributes="Italic"
+        BorderColor="Blue"
+        BackgroundColor="Red"
+        BorderWidth="2"
+        CornerRadius="10"
+        ImageSource="icon_light.png"
+        ContentLayout="Top, 10"
+        />-->
+
+    <!--<BoxView Color="Yellow" />-->
+
+    <!--<ActivityIndicator Color="Red" IsRunning="True"/>-->
+</ContentPage>
